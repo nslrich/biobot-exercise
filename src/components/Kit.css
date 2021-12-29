@@ -1,0 +1,27 @@
+.kit {
+  border: 1px solid grey;
+  border-radius: 3px;
+  font-size: 20px;
+  padding: 1rem;
+  margin-bottom: .4rem;
+  background-color: #fff;
+}
+
+.kit-row {
+  display: flex;
+  margin-bottom: .4rem;
+}
+
+.kit-title {
+  font-weight: bold;
+  margin-right: .4rem;
+  width: 50%;
+  text-align: end;
+  padding: 0rem .5rem;
+}
+
+.kit-data {
+  width: 50%;
+  text-align: start;
+  padding: 0rem .5rem;
+}
